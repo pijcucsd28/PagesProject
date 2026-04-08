@@ -32,7 +32,7 @@ Link to the sample section: [About Me](#About-Me).
 
 
 ## This is my favorite fruit. Don't slander it.
-!(https://images.pexels.com/photos/31427410/pexels-photo-31427410.jpeg)
+![Picture of real bananas.](https://images.pexels.com/photos/31427410/pexels-photo-31427410.jpeg)
 
 
 ## Hitchike over to README!
