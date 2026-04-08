@@ -52,6 +52,6 @@ Link to the sample section: [About Me](#About-Me).
 
 
 ## Here's my grocery list as well!
-- [] Costco Rotisserie Chicken
-- [] 5 Gallons of Milk
-- [] Singular Peanut
+- [ ] Costco Rotisserie Chicken
+- [ ] 5 Gallons of Milk
+- [x] Singular Peanut
